@@ -25,3 +25,8 @@ It's still in a nascent phase where we're experimenting with features. Currently
 -   Rearranging of layers & groups
 -   Word/letter styling
 -   Image editing
+
+
+## Preview of the project
+
+![image alt](https://github.com/hruthikgithubrit/canvas-editor/blob/a027ef124853ee8c2ac3ecbc64d28c66d387ed0c/Screenshot%202025-04-01%20220203.png)
